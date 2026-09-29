@@ -1,1 +1,1 @@
-"--my first sql file"
+SELECT * FROM Employees;
